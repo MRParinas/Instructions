@@ -3,7 +3,7 @@ body {
     color: #333;
     line-height: 1.6;
     margin: 0;
-    padding: 20px; /* Consolidated padding */
+    padding: 20px; 
     background-color: #f4f4f4;
 }
 
@@ -32,7 +32,6 @@ code {
     color: #d63384;
 }
 
-/* Aesthetic improvements */
 .container {
     max-width: 800px;
     margin: auto;
@@ -49,7 +48,6 @@ img {
     margin-top: 20px;
 }
 
-/* Style adjustments for readability */
 p, ol {
     font-size: 16px;
 }
